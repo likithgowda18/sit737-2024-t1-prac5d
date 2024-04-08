@@ -1,18 +1,10 @@
-{"level":"info","message":"Parameters 1.55 and 17.45 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 1.55 and 18 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 1e+55 and 18 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 155 and 18 received for addition","service":"calculate-service"}
-{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
-{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
-{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
-{"level":"info","message":"Parameters 0 and 18 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 0 and 18 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 0 and 17 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 6 and 17 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 6 and 17 received for multiplication","service":"calculate-service"}
-{"level":"info","message":"Parameters 6 and 17 received for division","service":"calculate-service"}
-{"level":"info","message":"Parameters 25 and 5 received for division","service":"calculate-service"}
-{"level":"info","message":"Parameters 25 and 5 received for subtraction","service":"calculate-service"}
-{"level":"info","message":"Parameters 25 and 5 received for addition","service":"calculate-service"}
-{"level":"info","message":"Parameters 25 and 5 received for multiplication","service":"calculate-service"}
-{"level":"info","message":"Parameters 25 and 5 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 25 and 5 received for modulo","service":"calculate-service"}
+{"level":"info","message":"Parameters 24 and 5 received for modulo","service":"calculate-service"}
+{"level":"error","message":"num is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Square root of 5","service":"calculate-service"}
+{"level":"info","message":"Square root of 25","service":"calculate-service"}
+{"level":"error","message":"base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"exponent is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"exponent is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"exponent is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Base 3 raised to exponent 3","service":"calculate-service"}
