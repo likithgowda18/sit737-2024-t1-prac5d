@@ -1,0 +1,15 @@
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - "3040:3040"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - NODE_ENV=production
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:3040 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
